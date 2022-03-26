@@ -1,6 +1,6 @@
 ### Hi there! I'm Dhyka 👋
 
-I'm logistic enthusiast from Indonesia who currently fall in love with Data Science
+I'm Supply Chain enthusiast from Indonesia who currently fall in love with Data Science.
 
 - 🔭 I’m currently being a part of Hypefast as Senior Analyst B2C Fulfillment and previously i'm working as Inventory Control at Coca-Cola Europacific Partner Indonesia.
 - 🌱 Particularly fan of Logistic, Distribution, and Warehousing things. Feel free if you have any topic to discuss about.
